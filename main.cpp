@@ -54,7 +54,7 @@ int main(int argc, char *argv[])
     }
   }
 
-  std::cout << "Successfully stored " << matrix_entries.size() << " entries in memory." << std::endl;
+  std::cout << "Successfully stored " << matrix_entries.size() << " entries in memory" << std::endl;
 
   if (!matrix_entries.empty())
   {
